@@ -1,8 +1,3 @@
-<!-- 
-✨ CUSTOM GITHUB PROFILE README ✨
-Fully animated, professional, and dynamic
--->
-
 <!-- Hero Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=250&section=header&text=👋%20Hey%20there!%20I'm%20Mohammed%20Ahmed%20Hassan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
