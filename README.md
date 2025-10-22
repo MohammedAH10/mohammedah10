@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/MLOps-%2300C7B7.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Backend-Django%20%7C%20FastAPI-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Database-PostgreSQL-lightblue?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-React?style=for-the-badge" />
 </p>
 
 ---
