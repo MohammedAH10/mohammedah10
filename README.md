@@ -7,18 +7,18 @@
 
 <!-- Typing SVG Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=A few key phrases like Deep+Learning+Engineer;MLOps+Developer;Startup+Builder;AI+Engineer+from+Nigeria
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=A few key phrases like Deep+Learning+Engineer;MLOps+Developer;Startup+Builder;AI+Engineer
 </p>
 
 ---
 
 ### 🧠 About Me
-- 🔭 Currently working on: **<!-- FILL HERE -->**
-- 🌱 Currently learning: **<!-- FILL HERE -->**
-- 🧩 Exploring: **<!-- FILL HERE (e.g. RAG, Edge AI, LLMs, etc.) -->**
-- 💬 Ask me about: **<!-- FILL HERE -->**
-- 🧠 Fun fact: **<!-- FILL HERE -->**
-- 📨 Reach me at: **<!-- FILL HERE: Email or contact -->**
+- 🔭 Currently working on: **MiraiQ**
+- 🌱 Currently learning: **Langchain, Langraph and React**
+- 🧩 Exploring: **RAG, Edge AI, LLMs and AI Agents**
+- 💬 Ask me about: **Tensorflow and Neural Nets**
+- 🧠 Fun fact: **I dont know any fun fact about me 🥹**
+- 📨 Reach me at: **kaninpino1000@gmail.com**
 
 ---
 
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/MLOps-%2300C7B7.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Backend-Django%20%7C%20FastAPI-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Database-PostgreSQL-lightblue?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Flutter-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20-lightgrey?style=for-the-badge" />
 </p>
 
 ---
