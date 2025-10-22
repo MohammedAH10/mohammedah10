@@ -67,7 +67,7 @@
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/mohammed-ahmed-hassan"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  <a href="https://x.com/MohammedAH70"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>
+  <a href="https://x.com/MohammedAH70"><img src="https://cdn.simpleicons.org/x/000000" width="40" alt="X (formerly Twitter)" /></a>
   <a href="https://github.com/MohammedAH10"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
 </p>
 
