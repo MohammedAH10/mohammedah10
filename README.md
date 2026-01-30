@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=250&section=header&text=👋%20Hey%20there!%20I'm%20Mohammed%20Ahmed%20Hassan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h3 align="center">🚀 AI/ML Engineer | MLOps | DL | Django | FastAPI </h3>
+<h3 align="center">🚀 AI/ML Engineer | MLOps | DL | FastAPI </h3>
 
 <!-- Typing SVG Intro -->
 <p align="center">
@@ -14,7 +14,7 @@
 
 ### 🧠 About Me
 - 🔭 Currently working on: **MiraiQ**
-- 🌱 Currently learning: **Langchain, Langraph and React**
+- 🌱 Currently learning: **Langchain, Langraph and Llama Index**
 - 🧩 Exploring: **RAG, Edge AI, LLMs and AI Agents**
 - 💬 Ask me about: **Tensorflow and Neural Nets**
 - 🧠 Fun fact: **I dont know any fun fact about me 🥹**
@@ -34,7 +34,6 @@
   <img src="https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/MLOps-%2300C7B7.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Backend-Django%20%7C%20FastAPI-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-lightblue?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Frontend-React?style=for-the-badge" />
 </p>
 
@@ -56,7 +55,10 @@
   <a href="https://github.com/MohammedAH10/BreastCancerPredictionII">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedah10&repo=BreastCancerPredictionII&theme=tokyonight" />
   </a>
-  <a href="https://github.com/<!-- FILL HERE: username/repo2 -->">
+  <a href="https://github.com/MohammedAH10/Mirai-Q">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=<!-- FILL HERE: username -->&repo=<!-- FILL HERE: repo2 -->&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/MohammedAH10/ExploratoryDataAnalysis-Agent">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=<!-- FILL HERE: username -->&repo=<!-- FILL HERE: repo2 -->&theme=tokyonight" />
   </a>
   <!-- Add more if needed -->
