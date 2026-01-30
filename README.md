@@ -56,10 +56,10 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedah10&repo=BreastCancerPredictionII&theme=tokyonight" />
   </a>
   <a href="https://github.com/MohammedAH10/Mirai-Q">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=<!-- FILL HERE: username -->&repo=<!-- FILL HERE: repo2 -->&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedAH10&repo=&theme=tokyonight" />
   </a>
   <a href="https://github.com/MohammedAH10/ExploratoryDataAnalysis-Agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=<!-- FILL HERE: username -->&repo=<!-- FILL HERE: repo2 -->&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedAH10&repo=ExploratoryDataAnalysis-Agent&theme=tokyonight" />
   </a>
   <!-- Add more if needed -->
 </p>
