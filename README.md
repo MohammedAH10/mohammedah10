@@ -15,8 +15,8 @@
 - 🔭 Currently working on: **MiraiQ**
 - 🌱 Currently learning: **Langchain, Langraph and Llama Index**
 - 🧩 Exploring: **RAG, Edge AI, LLMs and AI Agents**
-- 💬 Ask me about: **Tensorflow and Neural Nets**
-- 🧠 Fun fact: **I don't know any fun fact about me 🥹**
+- 💬 Ask me about: **Tensorflow, AI and Neural Nets**
+- 🧠 Fun fact: **Underwhelmed 😑**
 - 📨 Reach me at: **kaninpino1000@gmail.com**
 
 ---
@@ -54,40 +54,12 @@
 
 ---
 
-### 📦 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/MohammedAH10/BreastCancerPredictionII">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammedah10&repo=BreastCancerPredictionII&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/MohammedAH10/ExploratoryDataAnalysis-Agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohammedAH10&repo=ExploratoryDataAnalysis-Agent&theme=tokyonight" />
-  </a>
-</p>
-
-#### 🚀 Live Demos
-
-<p align="center">
-  <a href="https://huggingface.co/spaces/MohammedAH/Brain-MRI-Analysis">
-    <img src="https://img.shields.io/badge/🧠%20Brain%20MRI%20Analysis-Live%20Demo-yellow?style=for-the-badge" />
-  </a>
-  <a href="https://breastcancerprognosis-1.onrender.com">
-    <img src="https://img.shields.io/badge/🎗️%20Breast%20Cancer%20Prediction-Live%20Demo-pink?style=for-the-badge" />
-  </a>
-  <a href="https://exploratorydataanalysis-agent.onrender.com">
-    <img src="https://img.shields.io/badge/📊%20Data%20Science%20Agent-Live%20Demo-blue?style=for-the-badge" />
-  </a>
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/mohammed-ahmed-hassan"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
   <a href="https://x.com/MohammedAH70"><img src="https://cdn.simpleicons.org/x/000000" width="40" alt="X (formerly Twitter)" /></a>
   <a href="https://github.com/MohammedAH10"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
-  <a href="https://huggingface.co/MohammedAH"><img src="https://img.shields.io/badge/🤗%20HuggingFace-MohammedAH-yellow?style=flat-square&logo=huggingface&logoColor=white" height="40" /></a>
 </p>
 
 ---
