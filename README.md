@@ -12,7 +12,6 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently working on: **MiraiQ**
 - 🌱 Currently learning: **Langchain, Langraph and Llama Index**
 - 🧩 Exploring: **RAG, Edge AI, LLMs and AI Agents**
 - 💬 Ask me about: **Tensorflow, AI and Neural Nets**
