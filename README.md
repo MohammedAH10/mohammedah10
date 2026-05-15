@@ -5,7 +5,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:03040f,30:0c1228,60:1a1060,100:0c0530&height=280&section=header&text=Mohammed%20Ahmed%20Hassan&fontSize=48&fontColor=e0e8ff&animation=twinkling&fontAlignY=42&desc=AI%20%2F%20DeepLearning%20Engineer%20%7C%20LLM%20Systems%20%7C%20Edge%20AI%20%7C%20MLOps&descSize=18&descAlignY=62&descColor=8896c0" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:03040f,30:0c1228,60:1a1060,100:0c0530&height=280&section=header&text=Mohammed%20Ahmed%20Hassan&fontSize=48&fontColor=e0e8ff&animation=twinkling&fontAlignY=42&desc=AI%20%2F%20ML%20Engineer%20%7C%20LLM%20Systems%20%7C%20Edge%20AI%20%7C%20MLOps&descSize=18&descAlignY=62&descColor=8896c0" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
