@@ -15,7 +15,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=18&pause=1200&color=4F8EF7&center=true&vCenter=true&width=650&height=50&lines=Building+production-ready+AI+systems;LLMs+%7C+RAG+%7C+AI+Agents+%7C+Edge+AI;From+data+pipelines+to+deployment;End-to-end+intelligent+systems+engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=18&pause=1200&color=4F8EF7&center=true&vCenter=true&width=650&height=50&lines=Building+production-ready+AI+systems;LLMs+%7C+RAG+%7C+Deep+Learning+%7C+Edge+AI;From+data+pipelines+to+deployment;End-to-end+intelligent+systems+engineering" />
 </p>
 
 <!-- STAR DIVIDER -->
